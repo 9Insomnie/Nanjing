@@ -3,9 +3,6 @@
 欢迎来到 **Secure Web Server**，一个既安全又有趣的 Web 服务器！🚀  
 无论是上传文件、验证身份，还是简单地打个招呼，这个服务器都能搞定！  
 
-![Server Demo](https://via.placeholder.com/800x400.png?text=Secure+Web+Server+Demo)  
-（假装这里有一张超酷的服务器运行截图 😎）
-
 ---
 
 ## 🌟 功能特性
@@ -84,19 +81,6 @@ python server.py -h
 
 ---
 
-## 📂 项目结构
-
-```plaintext
-secure-web-server/
-├── server.py               # 主程序文件
-├── README.md               # 项目说明文档
-├── requirements.txt        # 依赖文件
-├── .gitignore              # Git 忽略文件
-└── LICENSE                 # 开源许可证（可选）
-```
-
----
-
 ## 🤔 常见问题
 
 ### 1. 如何启用 HTTPS？
@@ -110,32 +94,3 @@ python server.py -p 8443 --https
 
 ### 3. 为什么我的 Token 无效？
 Token 默认有效期为 30 分钟，过期后需要重新登录获取。
-
----
-
-## 🙌 贡献指南
-
-欢迎贡献代码！以下是参与步骤：
-1. Fork 本项目。
-2. 创建一个新分支：`git checkout -b feature/你的功能`。
-3. 提交更改：`git commit -m '添加了某个功能'`。
-4. 推送到分支：`git push origin feature/你的功能`。
-5. 提交 Pull Request。
-
----
-
-## 📜 许可证
-
-本项目基于 [MIT 许可证](LICENSE) 开源。  
-你可以随意使用、修改和分发代码，但请保留原始作者信息。
-
----
-
-## 💬 联系我们
-
-如果有任何问题或建议，欢迎在 [Issues](https://github.com/你的用户名/secure-web-server/issues) 中提出，或者通过邮件联系我：`your-email@example.com`。
-
----
-
-**Happy Coding!** 🎉  
-—— 你的名字
