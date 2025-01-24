@@ -90,5 +90,3 @@ curl -u "admin:yourpassword" -X POST -F "file=@/path/to/your/file" http://localh
 ---
 
 **享受安全且有趣的文件上传体验！** 🎉
-
----
